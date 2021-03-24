@@ -9,6 +9,24 @@
 ### Option 1: general structure
 ```
 {{directory_name}}/
+├── analysis
+├── data/
+│   ├── derived_data/
+│   └── raw_data/
+├── docs/
+├── product/
+└── scripts/
+```
+* **analysis** - Markdown or Jupyter notebooks
+* **data** - Raw and derived data
+* **docs** - Rendered reports
+* **product** - Output product files
+* **scripts** - Reusable code
+
+so a structure with some files could look like this:
+
+```
+{{directory_name}}/
 ├── Readme.md
 ├── analysis
 │    └── report.Rmd
@@ -25,11 +43,7 @@
       └── myfunctions.R
 ```
 
-* **analysis** - Markdown or Jupyter notebooks
-* **data** - Raw and derived data
-* **docs** - Rendered reports
-* **product** - Output product files
-* **scripts** - Reusable code
+
 
 ### Option 2: R package structure
 ```
