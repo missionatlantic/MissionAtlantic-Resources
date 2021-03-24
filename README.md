@@ -8,7 +8,7 @@
 
 ### Option 1: general structure
 ```
-{{directory_name}}/
+WP5-Case_study_A/
 ├── analysis
 ├── data/
 │   ├── derived_data/
@@ -26,7 +26,7 @@
 so a structure with some files could look like this:
 
 ```
-{{directory_name}}/
+WP5-Case_study_A/
 ├── Readme.md
 ├── analysis
 │    └── report.Rmd
@@ -47,7 +47,7 @@ so a structure with some files could look like this:
 
 ### Option 2: R structure
 ```
-{{directory_name}}/
+WP5-Case_study_A/
 ├── analysis
 ├── data/
 │   ├── derived_data/
