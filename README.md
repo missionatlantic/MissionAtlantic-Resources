@@ -30,6 +30,7 @@ WP5-Case_study_A/
 ├── Readme.md
 ├── analysis
 │    └── report.Rmd
+│    └── report.ipynb
 ├── data/
 │    ├── raw_data/
 │    │   └── my_data.csv
@@ -49,6 +50,7 @@ WP5-Case_study_A/
 ```
 WP5-Case_study_A/
 ├── analysis
+│    └── report.Rmd
 ├── data/
 │   ├── derived_data/
 │   └── raw_data/
@@ -57,7 +59,7 @@ WP5-Case_study_A/
 └── R/
 ```
 
-* **analysis** - Markdown or Jupyter notebooks
+* **analysis** - RMarkdown notebooks
 * **data** - Raw and derived data
 * **docs** - Rendered reports
 * **product** - Output product files
