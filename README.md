@@ -45,7 +45,7 @@ so a structure with some files could look like this:
 
 
 
-### Option 2: R package structure
+### Option 2: R structure
 ```
 {{directory_name}}/
 ├── analysis
