@@ -71,10 +71,6 @@ WP5-Case_study_A/
 
 {{data_series}}
 
-```
-{{data_wfs_request}}
-```
-
 ## Data product
 
 {{data_product_description}}
