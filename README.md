@@ -1,8 +1,9 @@
-# {{product_name}}
+# Template for Mission Atlantic analysis- e.g. a repository for WP5 case study A
 
 ## Introduction
 
 {{product_introduction}}
+This is a template to be used for the different Mission Atlantic Work Packages and Case Studies, to document and collaborate on the data processing steps.
 
 ## Directory structure
 
