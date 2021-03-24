@@ -6,6 +6,32 @@
 
 ## Directory structure
 
+### Option 1: general structure
+```
+{{directory_name}}/
+├── Readme.md
+├── analysis
+│    └── report.Rmd
+├── data/
+│    ├── raw_data/
+│    │   └── my_data.csv
+│    └── derived_data/
+│        └── my_processed_data.csv
+├── docs/
+│     └── report.html
+│     └── report.pdf
+├── product/
+└── scripts/
+      └── myfunctions.R
+```
+
+* **analysis** - Markdown or Jupyter notebooks
+* **data** - Raw and derived data
+* **docs** - Rendered reports
+* **product** - Output product files
+* **scripts** - Reusable code
+
+### Option 2: R package structure
 ```
 {{directory_name}}/
 ├── analysis
@@ -14,14 +40,14 @@
 │   └── raw_data/
 ├── docs/
 ├── product/
-└── scripts/
+└── R/
 ```
 
 * **analysis** - Markdown or Jupyter notebooks
 * **data** - Raw and derived data
 * **docs** - Rendered reports
 * **product** - Output product files
-* **scripts** - Reusable code
+* **R** - Reusable R scripts/code
 
 ## Data series
 
