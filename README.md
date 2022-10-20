@@ -1,8 +1,8 @@
-# Overview of Mission Atlantic Resources and scripts
+# Overview of Mission Atlantic Coding Resources
 
 ## Introduction
 
-This repository (readme) file gives and overview of Mission Atlantic resources.
+This repository (readme) file gives and overview of Mission Atlantic resources that are currently stored in other repositories. Instead of forking the full repository (and being quickly outdated), we provide a link to the other repository.
 
 ### Retrieving data
 - ...
@@ -16,6 +16,12 @@ This repository (readme) file gives and overview of Mission Atlantic resources.
 
 ### Other
 - ...
+
+
+
+
+
+
 
 
 ---
