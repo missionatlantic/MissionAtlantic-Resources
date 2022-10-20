@@ -1,101 +1,22 @@
-# Template for Mission Atlantic analysis
+# Overview of Mission Atlantic Resources and scripts
 
 ## Introduction
 
-{{product_introduction}}
+This repository (readme) file gives and overview of Mission Atlantic resources.
 
-This is a template to be used for the different Mission Atlantic Work Packages and Case Studies, to document and collaborate on the data processing steps.
+### Retrieving data
+- ...
 
-## Directory structure
+### Analysis
+- ...
 
-### Option 1: general structure
-```
-WP5-Case_study_A/
-├── analysis
-├── data/
-│   ├── derived_data/
-│   └── raw_data/
-├── docs/
-├── product/
-└── scripts/
-```
-* **analysis** - Markdown or Jupyter notebooks
-* **data** - Raw and derived data
-* **docs** - Rendered reports
-* **product** - Output product files
-* **scripts** - Reusable code
+### Visualisation
 
-so a structure with some files could look like this:
+- the R scripts to generate timeseries plots in the Norwegian Case Study: https://github.com/ices-eg/WGINOR (more specifically [here](https://github.com/ices-eg/WGINOR/blob/8b4277a9c4fd035837f8945bdebbda6410fb94eb/TAF_ATAC/utilities.R#L58) )
 
-```
-WP5-Case_study_A/
-├── Readme.md
-├── analysis
-│    └── report.Rmd
-│    └── report.ipynb
-├── data/
-│    ├── raw_data/
-│    │   └── my_data.csv
-│    └── derived_data/
-│        └── my_processed_data.csv
-├── docs/
-│     └── report.html
-│     └── report.pdf
-├── product/
-└── scripts/
-      └── myfunctions.R
-```
+### Other
+- ...
 
-
-
-### Option 2: R structure
-```
-WP5-Case_study_A/
-├── analysis
-│    └── report.Rmd
-├── data/
-│   ├── derived_data/
-│   └── raw_data/
-├── docs/
-├── product/
-└── R/
-```
-
-* **analysis** - RMarkdown notebooks
-* **data** - Raw and derived data
-* **docs** - Rendered reports
-* **product** - Output product files
-* **R** - Reusable R scripts/code
-
-## Data series
-
-{{data_series}}
-
-## Data product
-
-{{data_product_description}}
-
-## More information:
-
-### References
-
-### Code and methodology
-
-{{link_code}}
-
-### Citation and download link
-
-This product should be cited as:
-
-{{product_citation}}
-
-Available to download in:
-
-{{link_download}}
-
-### Authors
-
-{{product_authors}}
 
 ---
 <img src="https://d33wubrfki0l68.cloudfront.net/3c7a986788206cd92394530e349a3a7c1ac17036/bcbea/logo.png" alt="drawing" width="500"/>
