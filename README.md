@@ -2,14 +2,21 @@
 
 ## Introduction
 
-This repository (readme) file gives and overview of Mission Atlantic resources that are currently stored in other repositories. Instead of forking the full repository (and being quickly outdated), we provide a link to the other repository.
+This repository (readme) file gives and overview of Mission Atlantic resources that are currently stored in this **or other repositories**. Instead of forking the full repository (and being quickly outdated), we provide a link to the other repository.
 
 ### Retrieving data
+- [retrieving OBIS & GBIF data](https://github.com/missionatlantic/obis_gbif_tutorial) 
 - ...
 
+ 
 ### Analysis
-- ...
+- [IEAtools](https://github.com/missionatlantic/IEAtools), an R Package developed in the framework of Mission Atlantic with functions for conducting Integrated Ecosystem Assessments (IEAs). [Forked repo in MissionAtlantic](https://github.com/missionatlantic/IEAtools). For latest version, check the [original repo](https://github.com/saskiaotto/IEAtools).
+- Ecorisk, R scripts to perform ecorisk assessments in R. Coming soon. check the [original repo](https://github.com/HeleneGutte/ecorisk).
+- the code of the size-spectrum species-based Dynamic Bioclimate Envelope (SS-DBEM) (Version 1) that was used in a WP3 - related paper: https://doi.org/10.5281/zenodo.7548113. Cite as:
+> Fernandes-Salvador, Jose Antonio, & Cheung, William W. L. (2023). Code of size-spectrum species-based Dynamic Bioclimate Envelope Model (SS-DBEM) (Version 1). Zenodo. https://doi.org/10.5281/zenodo.7548113
 
+- ...
+ 
 ### Visualisation
 
 - the R scripts to generate timeseries plots in the Norwegian Case Study: https://github.com/ices-eg/WGINOR (more specifically [here](https://github.com/ices-eg/WGINOR/blob/8b4277a9c4fd035837f8945bdebbda6410fb94eb/TAF_ATAC/utilities.R#L58) )
