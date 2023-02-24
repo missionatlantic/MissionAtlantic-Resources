@@ -11,6 +11,7 @@ This repository (readme) file gives and overview of Mission Atlantic resources t
  
 ### Analysis
 - [**IEAtools**](https://github.com/missionatlantic/IEAtools), an R Package developed in the framework of Mission Atlantic with functions for conducting Integrated Ecosystem Assessments (IEAs). [Forked repo in MissionAtlantic](https://github.com/missionatlantic/IEAtools). For latest version, check the [original repo](https://github.com/saskiaotto/IEAtools).
+- [**INDperform**](https://github.com/saskiaotto/INDperform), an R package for evaluating ecological state indicators and assessing the ecological status based on a suite of indicators. ![image](https://github.com/saskiaotto/INDperform/raw/master/man/figures/logo.png)
 - [**Ecorisk**](https://github.com/missionatlantic/ecorisk), R scripts to perform ecorisk assessments in R. Coming soon. check the [original repo](https://github.com/HeleneGutte/ecorisk).
 - the code of the size-spectrum species-based Dynamic Bioclimate Envelope ([**SS-DBEM**](https://doi.org/10.5281/zenodo.7548113)) (Version 1) that was used in a WP3 - related paper: https://doi.org/10.5281/zenodo.7548113. Cite as:
 > Fernandes-Salvador, Jose Antonio, & Cheung, William W. L. (2023). Code of size-spectrum species-based Dynamic Bioclimate Envelope Model (SS-DBEM) (Version 1). Zenodo. https://doi.org/10.5281/zenodo.7548113
