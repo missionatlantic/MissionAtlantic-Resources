@@ -17,7 +17,7 @@ This repository (readme) file gives and overview of Mission Atlantic resources t
 - the code of the size-spectrum species-based Dynamic Bioclimate Envelope ([**SS-DBEM**](https://doi.org/10.5281/zenodo.7548113)) (Version 1) that was used in a WP3 - related paper: https://doi.org/10.5281/zenodo.7548113. Cite as:
 > Fernandes-Salvador, Jose Antonio, & Cheung, William W. L. (2023). Code of size-spectrum species-based Dynamic Bioclimate Envelope Model (SS-DBEM) (Version 1). Zenodo. https://doi.org/10.5281/zenodo.7548113
 
-- a script to perform the [Mission Atlantic **ODEMM analysis**](https://github.com/missionatlantic/MissionAtlantic-ODEMM-Analysis). ODEMM stands for 'Options for Delivering Ecosystem-Based Marine Management'.
+- a script to perform the [Mission Atlantic RISK analysis](https://github.com/missionatlantic/MissionAtlantic-RISK-Analysis). Adapted from the ODEMM ('Options for Delivering Ecosystem-Based Marine Management') approach.
 - ...
  
 ### Visualisation
