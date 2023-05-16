@@ -11,17 +11,24 @@ This repository (readme) file gives and overview of Mission Atlantic resources t
  
 ### Analysis
 - [**IEAtools**](https://github.com/missionatlantic/IEAtools), an R Package developed in the framework of Mission Atlantic with functions for conducting Integrated Ecosystem Assessments (IEAs). [Forked repo in MissionAtlantic](https://github.com/missionatlantic/IEAtools). For latest version, check the [original repo](https://github.com/saskiaotto/IEAtools).
+
+<img src="https://github.com/saskiaotto/INDperform/raw/master/man/figures/logo.png" align="right" width="100">
+
 - [**INDperform**](https://github.com/saskiaotto/INDperform), an R package for evaluating ecological state indicators and assessing the ecological status based on a suite of indicators.
-![image](https://github.com/saskiaotto/INDperform/raw/master/man/figures/logo.png)
+
+
 - [**Ecorisk**](https://github.com/missionatlantic/ecorisk), R scripts to perform ecorisk assessments in R. Coming soon. check the [original repo](https://github.com/HeleneGutte/ecorisk).
 - the code of the size-spectrum species-based Dynamic Bioclimate Envelope ([**SS-DBEM**](https://doi.org/10.5281/zenodo.7548113)) (Version 1) that was used in a WP3 - related paper: https://doi.org/10.5281/zenodo.7548113. Cite as:
 > Fernandes-Salvador, Jose Antonio, & Cheung, William W. L. (2023). Code of size-spectrum species-based Dynamic Bioclimate Envelope Model (SS-DBEM) (Version 1). Zenodo. https://doi.org/10.5281/zenodo.7548113
 
 - a script to perform the [Mission Atlantic RISK analysis](https://github.com/missionatlantic/MissionAtlantic-RISK-Analysis). Adapted from the ODEMM ('Options for Delivering Ecosystem-Based Marine Management') approach.
+
+<p><img src="https://gam-niche.azti.es/wp-content/uploads/2023/05/logo_gam_niche_web.jpg" width="150" align="right"></p>
+
 - [**GAM-NICHE**](https://gam-niche.azti.es/), Shape-Constrained GAMs to build Species Distribution Models under the ecological niche theory. This includes a short tutorial for constructing species distribution models in R using Shape-Constrained Generalized Additive Models, code and an [online book](https://gam-niche.azti.es/).
 Cite the book as:
  > Valle, M., Citores, L., Ibaibarriaga, L., Chust, C. (2023) GAM-NICHE: Shape-Constrained GAMs to build Species Distribution Models under the ecological niche theory. AZTI. https://doi.org/10.57762/fzpy-6w51
-<img src="https://gam-niche.azti.es/wp-content/uploads/2023/05/logo_gam_niche_web.jpg" width="200">
+
 
 - ...
  
