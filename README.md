@@ -18,6 +18,11 @@ This repository (readme) file gives and overview of Mission Atlantic resources t
 > Fernandes-Salvador, Jose Antonio, & Cheung, William W. L. (2023). Code of size-spectrum species-based Dynamic Bioclimate Envelope Model (SS-DBEM) (Version 1). Zenodo. https://doi.org/10.5281/zenodo.7548113
 
 - a script to perform the [Mission Atlantic RISK analysis](https://github.com/missionatlantic/MissionAtlantic-RISK-Analysis). Adapted from the ODEMM ('Options for Delivering Ecosystem-Based Marine Management') approach.
+- [**GAM-NICHE**](https://gam-niche.azti.es/), Shape-Constrained GAMs to build Species Distribution Models under the ecological niche theory. This includes a short tutorial for constructing species distribution models in R using Shape-Constrained Generalized Additive Models, code and an [online book](https://gam-niche.azti.es/).
+Cite the book as:
+ > Valle, M., Citores, L., Ibaibarriaga, L., Chust, C. (2023) GAM-NICHE: Shape-Constrained GAMs to build Species Distribution Models under the ecological niche theory. AZTI. https://doi.org/10.57762/fzpy-6w51
+<img src="https://gam-niche.azti.es/wp-content/uploads/2023/05/logo_gam_niche_web.jpg" width="200">
+
 - ...
  
 ### Visualisation
