@@ -12,7 +12,7 @@ This repository (readme) file gives and overview of Mission Atlantic resources t
 ### Analysis
 - [**IEAtools**](https://github.com/missionatlantic/IEAtools), an R Package developed in the framework of Mission Atlantic with functions for conducting Integrated Ecosystem Assessments (IEAs). [Forked repo in MissionAtlantic](https://github.com/missionatlantic/IEAtools). For latest version, check the [original repo](https://github.com/saskiaotto/IEAtools).
 
-<img src="https://github.com/saskiaotto/INDperform/raw/master/man/figures/logo.png" align="right" width="100">
+<img src="https://github.com/saskiaotto/INDperform/raw/master/man/figures/logo.png" align="right" height="100">
 
 - [**INDperform**](https://github.com/saskiaotto/INDperform), an R package for evaluating ecological state indicators and assessing the ecological status based on a suite of indicators.
 
@@ -47,7 +47,7 @@ Cite the book as:
 
 
 ---
-<img src="https://d33wubrfki0l68.cloudfront.net/3c7a986788206cd92394530e349a3a7c1ac17036/bcbea/logo.png" alt="drawing" width="500"/>
+<img src="https://d33wubrfki0l68.cloudfront.net/3c7a986788206cd92394530e349a3a7c1ac17036/bcbea/logo.png" alt="drawing" width="250"/>
 
 <table>
   <tr>
