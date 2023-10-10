@@ -31,6 +31,10 @@ Cite the book as:
 
     > Valle, M., Citores, L., Ibaibarriaga, L., Chust, C. (2023) GAM-NICHE: Shape-Constrained GAMs to build Species Distribution Models under the ecological niche theory. AZTI. https://doi.org/10.57762/fzpy-6w51
 
+<img src="https://www.marineresourcemodelling.maths.strath.ac.uk/strathe2e/logo.svg" align="right" height="110">
+
+- [**StrathE2E**](https://www.marineresourcemodelling.maths.strath.ac.uk/strathe2e/index.html), a marine end-to-end ecosystem model and R package. View the [application](https://outreach.mathstat.strath.ac.uk/apps/StrathE2EApp/), the [website](https://www.marineresourcemodelling.maths.strath.ac.uk/strathe2e/index.html) or the latest [publication](https://doi.org/10.1111/2041-210X.13510).
+
 
 - ...
  
