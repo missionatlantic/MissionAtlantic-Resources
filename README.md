@@ -35,6 +35,10 @@ Cite the book as:
 
 - [**StrathE2E**](https://www.marineresourcemodelling.maths.strath.ac.uk/strathe2e/index.html), a marine end-to-end ecosystem model and R package. View the [application](https://outreach.mathstat.strath.ac.uk/apps/StrathE2EApp/), the [website](https://www.marineresourcemodelling.maths.strath.ac.uk/strathe2e/index.html) or the latest [publication](https://doi.org/10.1111/2041-210X.13510).
 
+- [**geomorph_deep**](https://github.com/BrandonHobley/geomorph_deep): a repository to run Convolutional neural networks for segmenting seabed morphological classes: https://github.com/BrandonHobley/geomorph_deep
+- A repository to run a [**broad-scale benthic habitat classification of the South-Atlantic**](https://github.com/DeepSeaCRU/South-Atlantic-Benthic-Habitat-Classification). Cite classification as:
+
+    > McQuaid K. A. Bridges A. E. H., Howell K. L., Gandra T. B. R., de Souza V., Currie J. C., Hogg O. T., Pearman T. R. R., Bell J. B. B., Atkinson L. J., Baum D., Bonetti J., Carranza A., Defeo O., Furey T., Gasalla M. A., Golding N, Hampton S. L., Horta S., Jones D. O. B., Lombard A. T., Manca E., Marin Y., Martin S., Mortensen P., Passdore C., Piechaud N., Sink K. J. & Yool A. 2023. Broad-scale benthic habitat classification of the South Atlantic. Progress in Oceanography. DOI: https://doi.org/10.1016/j.pocean.2023.103016.
 
 - ...
  
