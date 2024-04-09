@@ -2,58 +2,90 @@
 
 ## Introduction
 
-This repository (readme) file gives and overview of Mission Atlantic resources that are currently stored in this **or other repositories**. Instead of forking the full repository (and being quickly outdated), we can provide a link to other repositories.
+MISSION ATLANTIC is a Horizon 2020 project that will improve our understanding of Atlantic Ocean ecosystems and drivers of change that impact marine biodiversity and ocean resources, through the development of the Integrated Ecosystems Assessments. 
 
-### Retrieving data
-- [tutorial for retrieving OBIS & GBIF data in R](https://github.com/missionatlantic/obis_gbif_tutorial) 
-- ...
+An Integrated Ecosystem Assessment (IEA) is a framework for implementing ecosystem based management, used to organise scientific findings and inform decision-making. It involves an iterative process of combined environmental and socioeconomic data to provide a comprehensive view of the entire system, as well as the participation of stakeholders to identify relevant management objectives. An IEA involves a five-step process:
 
- 
-### Analysis
-- [**IEAtools**](https://github.com/missionatlantic/IEAtools), an R Package developed in the framework of Mission Atlantic with functions for conducting Integrated Ecosystem Assessments (IEAs). [Forked repo in MissionAtlantic](https://github.com/missionatlantic/IEAtools). For latest version, check the [original repo](https://github.com/saskiaotto/IEAtools).
+1. **Scope** of key management objectives, human activities and the ecosystem components affected by them.
+2. **Indicators** development to assess the status, drivers and resilience of the ecosystem.
+3. **Risk analyses** that involve the present impacts and future changes.
+4. **Scenario testing** under various scenarios of climate change, resource exploitation and social development using end-to-end ecosystem models.
+5. **Refine** to achieve desired outcomes, by reflecting the needs and trade-offs.
 
-<img src="https://github.com/saskiaotto/INDperform/raw/master/man/figures/logo.png" align="right" height="100">
+This repository (readme) file provides an overview of Mission Atlantic resources that are currently stored in this **or other repositories**. Instead of forking the full repository (and being quickly outdated), we can provide a link to other repositories.
 
-- [**INDperform**](https://github.com/saskiaotto/INDperform), an R package for evaluating ecological state indicators and assessing the ecological status based on a suite of indicators.
+### Coding resources
 
 
-- [**Ecorisk**](https://github.com/missionatlantic/ecorisk), R scripts to perform ecorisk assessments in R. Coming soon. check the [original repo](https://github.com/HeleneGutte/ecorisk).
-- the code of the size-spectrum species-based Dynamic Bioclimate Envelope ([**SS-DBEM**](https://doi.org/10.5281/zenodo.7548113)) (Version 1) that was used in a WP3 - related paper: https://doi.org/10.5281/zenodo.7548113. Cite as:
 
-    > Fernandes-Salvador, Jose Antonio, & Cheung, William W. L. (2023). Code of size-spectrum species-based Dynamic Bioclimate Envelope Model (SS-DBEM) (Version 1). Zenodo. https://doi.org/10.5281/zenodo.7548113
+- [**R Data retrieval from OBIS & GBIF**](https://github.com/missionatlantic/obis_gbif_tutorial) 
 
-- a script to perform the [Mission Atlantic RISK analysis](https://github.com/missionatlantic/MissionAtlantic-RISK-Analysis). Adapted from the ODEMM ('Options for Delivering Ecosystem-Based Marine Management') approach.
+  A short tutorial to download biodiversity data from [OBIS](https://obis.org/) and [GBIF](https://www.gbif.org/). The tutorial downloads occurrence data for multiple species.
+  
+  
+- [**GAM-NICHE**](https://gam-niche.azti.es/)
 
-<p><img src="https://gam-niche.azti.es/wp-content/uploads/2023/05/logo_gam_niche_web.jpg" width="150" align="right"></p>
-
-- [**GAM-NICHE**](https://gam-niche.azti.es/), Shape-Constrained GAMs to build Species Distribution Models under the ecological niche theory. This includes a short tutorial for constructing species distribution models in R using Shape-Constrained Generalized Additive Models, code and an [online book](https://gam-niche.azti.es/).
+   A tool to build species distribution models (SDMs) under the ecological niche theory framework, using Shape-Constrained Generalized Additive Models (SC-GAMs). It includes a short R tutorial, code and an [online book](https://fundacion-azti.github.io/gam-niche/).
 Cite the book as:
 
-    > Valle, M., Citores, L., Ibaibarriaga, L., Chust, C. (2023) GAM-NICHE: Shape-Constrained GAMs to build Species Distribution Models under the ecological niche theory. AZTI. https://doi.org/10.57762/fzpy-6w51
+  <p><img src="https://gam-niche.azti.es/wp-content/uploads/2023/05/logo_gam_niche_web.jpg" width="150" align="right"></p>
 
-<img src="https://www.marineresourcemodelling.maths.strath.ac.uk/strathe2e/logo.svg" align="right" height="110">
+    > <h6>Valle, M., Citores, L., Ibaibarriaga, L., Chust, C. (2023) GAM-NICHE: Shape-Constrained GAMs to build Species Distribution Models under the ecological niche theory. AZTI. https://doi.org/10.57762/fzpy-6w51<h6>
+    
+  
+- [**geomorph_deep**](https://github.com/BrandonHobley/geomorph_deep)
 
-- [**StrathE2E**](https://www.marineresourcemodelling.maths.strath.ac.uk/strathe2e/index.html), a marine end-to-end ecosystem model and R package. View the [application](https://outreach.mathstat.strath.ac.uk/apps/StrathE2EApp/), the [website](https://www.marineresourcemodelling.maths.strath.ac.uk/strathe2e/index.html) or the latest [publication](https://doi.org/10.1111/2041-210X.13510).
-
-- [**geomorph_deep**](https://github.com/BrandonHobley/geomorph_deep): a repository to run Convolutional neural networks for segmenting seabed morphological classes: https://github.com/BrandonHobley/geomorph_deep
-- A repository to run a [**broad-scale benthic habitat classification of the South-Atlantic**](https://github.com/DeepSeaCRU/South-Atlantic-Benthic-Habitat-Classification). Cite classification as:
-
-    > McQuaid K. A. Bridges A. E. H., Howell K. L., Gandra T. B. R., de Souza V., Currie J. C., Hogg O. T., Pearman T. R. R., Bell J. B. B., Atkinson L. J., Baum D., Bonetti J., Carranza A., Defeo O., Furey T., Gasalla M. A., Golding N, Hampton S. L., Horta S., Jones D. O. B., Lombard A. T., Manca E., Marin Y., Martin S., Mortensen P., Passdore C., Piechaud N., Sink K. J. & Yool A. 2023. Broad-scale benthic habitat classification of the South Atlantic. Progress in Oceanography. DOI: https://doi.org/10.1016/j.pocean.2023.103016.
-
-- ...
+  A repository to run Convolutional neural networks for segmenting seabed morphological classes https://github.com/BrandonHobley/geomorph_deep.
  
-### Visualisation
+ - [**Broad-scale benthic habitat classification of the South-Atlantic**](https://github.com/DeepSeaCRU/South-Atlantic-Benthic-Habitat-Classification). Cite classification as:
 
-- the R scripts to generate timeseries plots in the Norwegian Case Study: https://github.com/ices-eg/WGINOR (more specifically [here](https://github.com/ices-eg/WGINOR/blob/8b4277a9c4fd035837f8945bdebbda6410fb94eb/TAF_ATAC/utilities.R#L58) )
+    > <h6>McQuaid K. A. Bridges A. E. H., Howell K. L., Gandra T. B. R., de Souza V., Currie J. C., Hogg O. T., Pearman T. R. R., Bell J. B. B., Atkinson L. J., Baum D., Bonetti J., Carranza A., Defeo O., Furey T., Gasalla M. A., Golding N, Hampton S. L., Horta S., Jones D. O. B., Lombard A. T., Manca E., Marin Y., Martin S., Mortensen P., Passdore C., Piechaud N., Sink K. J. & Yool A. 2023. Broad-scale benthic habitat classification of the South Atlantic. Progress in Oceanography. DOI: https://doi.org/10.1016/j.pocean.2023.103016.<h6>
+  
 
-### Other
-- ...
-
-
+- The R scripts to generate timeseries plots in the Norwegian Case Study: https://github.com/ices-eg/WGINOR (more specifically [here](https://github.com/ices-eg/WGINOR/blob/8b4277a9c4fd035837f8945bdebbda6410fb94eb/TAF_ATAC/utilities.R#L58) )
 
 
+- [**INDperform**](https://saskiaotto.github.io/INDperform)
+  <p><img src="https://github.com/saskiaotto/INDperform/raw/master/man/figures/logo.png" align="right" height="100">
+
+  Finding suitable ecological state indicators is challenging and cumbersome in stochastic and complex ecological systems. [INDperform](https://github.com/saskiaotto/INDperform) is an R package for validating the performance of ecological state indicators and assessing the ecological status based on a suite of indicators. The performance evaluation addresses the sensitivity and robustness of indicators. 
+  
+  > <h6>Otto, S.A., Kadin, M., Casini, M., Torres, M.A., Blenckner, T. (2018): A quantitative framework for selecting and validating food web indicators. Ecological Indicators, 84: 619-631, doi: https://doi.org/10.1016/j.ecolind.2017.05.045<h6>
 
 
+- [**Ecorisk**](https://github.com/missionatlantic/ecorisk)
+
+  The ecorisk package will be published under [this repository](https://github.com/HeleneGutte/ecorisk) soon. The ecorisk R package is designed to perform and analyse (ecosystem) risk assessments.
+  
+  
+
+- [**Mission Atlantic RISK analysis**](https://github.com/missionatlantic/MissionAtlantic-RISK-Analysis). 
+
+  Script for performing the Mission Atlantic RISK Analysis. Adapted from the ODEMM ('Options for Delivering Ecosystem-Based Marine Management') approach. Further details in:
+  
+  > <h6>Pedreschi, D., Niiranen, S., Skern-Mauritzen, M. and Reid, D.G., 2023. Operationalising ODEMM risk assessment for Integrated Ecosystem Assessment scoping: Complexity vs. manageability. Frontiers in Marine Science, 9, p.1037878. https://doi.org/10.3389/fmars.2022.1037878<h6>
+
+
+- [**SS-DBEM**](https://doi.org/10.5281/zenodo.7548113)
+
+  The size-spectrum species-based Dynamic Bioclimate Envelope ([**SS-DBEM**](https://doi.org/10.5281/zenodo.7548113)) (Version 1) that was used in a WP3 - related paper: https://doi.org/10.5281/zenodo.7548113. Cite as:
+
+  > <h6>Fernandes-Salvador, Jose Antonio, & Cheung, William W. L. (2023). Code of size-spectrum species-based Dynamic Bioclimate Envelope Model (SS-DBEM) (Version 1). Zenodo. https://doi.org/10.5281/zenodo.7548113<h6>
+    
+    <p><img src="https://www.marineresourcemodelling.maths.strath.ac.uk/strathe2e/logo.svg" align="right" height="110"> 
+    
+- [**StrathE2E**](https://www.marineresourcemodelling.maths.strath.ac.uk/strathe2e/index.html)
+
+  A marine end-to-end ecosystem model and R package. The aim is to represent the entire interconnected marine ecosystem (from physics and chemistry, to whales and fisheries in continental shelf regions) by exploring 'what if' experiments and explore uncertainty. View the [application](https://outreach.mathstat.strath.ac.uk/apps/StrathE2EApp/),
+the [website](https://www.marineresourcemodelling.maths.strath.ac.uk/strathe2e/index.html) or the latest [publication](https://doi.org/10.1111/2041-210X.13510).
+
+
+  
+  
+- [**IEAtools**](https://github.com/missionatlantic/IEAtools)
+
+  An R Package that provides supporting functions for conducting Integrated Ecosystem Assessments (IEA), developed in the framework of Mission Atlantic. The package includes methods for data exploration and assessment of the current ecosystem status. [Forked repository in Mission Atlantic](https://github.com/missionatlantic/IEAtools). For latest version, check the [original repository](https://github.com/saskiaotto/IEAtools).
+  
 
 
 ---
