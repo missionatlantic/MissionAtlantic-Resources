@@ -41,8 +41,8 @@ Cite the book as:
 - [**Plankton Lifeform Extraction Tool (PLET)**](https://www.dassh.ac.uk/lifeforms/)
 
   The Plankton Lifeform Extraction Tool brings together disparate European plankton datasets into a central database from which it extracts abundance time series of plankton functional groups, called “lifeforms”, according to shared biological traits. This tool has been designed to make complex plankton datasets accessible and meaningful for policy, public interest, and scientific discovery.
-
-  > <h6>McQuaid K. A. Bridges A. E. H., Howell K. L., Gandra T. B. R., de Souza V., Currie J. C., Hogg O. T., Pearman T. R. R., Bell J. B. B., Atkinson L. J., Baum D., Bonetti J., Carranza A., Defeo O., Furey T., Gasalla M. A., Golding N, Hampton S. L., Horta S., Jones D. O. B., Lombard A. T., Manca E., Marin Y., Martin S., Mortensen P., Passdore C., Piechaud N., Sink K. J. & Yool A. 2023. Broad-scale benthic habitat classification of the South Atlantic. Progress in Oceanography. DOI: https://doi.org/10.1016/j.pocean.2023.103016.<h6>
+  
+  > <h6>Ostle, C., Paxman, K., Graves, C.A., Arnold, M., Artigas, F., Atkinson, A., Aubert, A., Baptie, M., Bear, B., Bedford, J. and Best, M., 2021. The Plankton Lifeform Extraction Tool: a digital tool to increase the discoverability and usability of plankton time-series data. Earth System Science Data Discussions, 2021, pp.1-73.https://doi.org/10.5194/essd-13-5617-2021<h6>
  
  - [**geomorph_deep**](https://github.com/BrandonHobley/geomorph_deep)
 
@@ -51,7 +51,7 @@ Cite the book as:
   
  - [**Broad-scale benthic habitat classification of the South-Atlantic**](https://github.com/DeepSeaCRU/South-Atlantic-Benthic-Habitat-Classification). Cite classification as:
 
-    > <h6>Ostle, C., Paxman, K., Graves, C.A., Arnold, M., Artigas, F., Atkinson, A., Aubert, A., Baptie, M., Bear, B., Bedford, J. and Best, M., 2021. The Plankton Lifeform Extraction Tool: a digital tool to increase the discoverability and usability of plankton time-series data. Earth System Science Data Discussions, 2021, pp.1-73.https://doi.org/10.5194/essd-13-5617-2021<h6>
+   > <h6>McQuaid K. A. Bridges A. E. H., Howell K. L., Gandra T. B. R., de Souza V., Currie J. C., Hogg O. T., Pearman T. R. R., Bell J. B. B., Atkinson L. J., Baum D., Bonetti J., Carranza A., Defeo O., Furey T., Gasalla M. A., Golding N, Hampton S. L., Horta S., Jones D. O. B., Lombard A. T., Manca E., Marin Y., Martin S., Mortensen P., Passdore C., Piechaud N., Sink K. J. & Yool A. 2023. Broad-scale benthic habitat classification of the South Atlantic. Progress in Oceanography. DOI: https://doi.org/10.1016/j.pocean.2023.103016.<h6>
   
 
 - The R scripts to generate timeseries plots in the Norwegian Case Study: https://github.com/ices-eg/WGINOR (more specifically [here](https://github.com/ices-eg/WGINOR/blob/8b4277a9c4fd035837f8945bdebbda6410fb94eb/TAF_ATAC/utilities.R#L58) )
