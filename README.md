@@ -58,7 +58,7 @@ Cite the book as:
   
  - [**Broad-scale benthic habitat classification of the South-Atlantic**](https://github.com/DeepSeaCRU/South-Atlantic-Benthic-Habitat-Classification). 
 
-   The code and files contained in this repository support replication of a broad-scale benthic habitat classification of the South Atlantic produced by McQuaid et al. (2023). We used statistical clustering algorithms to classify broad-scale (10km2) environmental data into distinct habitat classes, which reflect variation in physical conditions and we assume support distinct biological communities. Cite classification as:
+   The code and files contained in this repository support replication of a broad-scale benthic habitat classification of the South Atlantic produced by McQuaid et al. (2023). Statistical clustering algorithms were used to classify broad-scale (10km2) environmental data into distinct habitat classes. Cite classification as:
 
    > <h6>McQuaid K. A. Bridges A. E. H., Howell K. L., Gandra T. B. R., de Souza V., Currie J. C., Hogg O. T., Pearman T. R. R., Bell J. B. B., Atkinson L. J., Baum D., Bonetti J., Carranza A., Defeo O., Furey T., Gasalla M. A., Golding N, Hampton S. L., Horta S., Jones D. O. B., Lombard A. T., Manca E., Marin Y., Martin S., Mortensen P., Passdore C., Piechaud N., Sink K. J. & Yool A. 2023. Broad-scale benthic habitat classification of the South Atlantic. Progress in Oceanography. DOI: https://doi.org/10.1016/j.pocean.2023.103016.<h6>
   
