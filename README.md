@@ -23,6 +23,11 @@ This repository (readme) file provides an overview of Mission Atlantic resources
   A short tutorial to download biodiversity data from [OBIS](https://obis.org/) and [GBIF](https://www.gbif.org/). The tutorial downloads occurrence data for multiple species.
   
   
+- [**Standardisation of LOKI data from Ecotaxa into Darwin Core**](https://github.com/missionatlantic/Plankton_IEAPM_Brazil) 
+
+  A short tutorial to standardize LOKI data exported from Ecotaxa into Darwin Core (https://dwc.tdwg.org/).
+  
+  
 - [**GAM-NICHE**](https://gam-niche.azti.es/)
 
    A tool to build species distribution models (SDMs) under the ecological niche theory framework, using Shape-Constrained Generalized Additive Models (SC-GAMs). It includes a short R tutorial, code and an [online book](https://fundacion-azti.github.io/gam-niche/).
