@@ -37,6 +37,13 @@ Cite the book as:
 
     > <h6>Valle, M., Citores, L., Ibaibarriaga, L., Chust, C. (2023) GAM-NICHE: Shape-Constrained GAMs to build Species Distribution Models under the ecological niche theory. AZTI. https://doi.org/10.57762/fzpy-6w51<h6>
     
+    
+- [**Pan-Atlantic 3D distribution model incorporating water column for commercial fish.**](https://github.com/missionatlantic/3D_SDMs_AtlanticFish)
+
+   Repository for code and generated data for " Pan-Atlantic 3D distribution model incorporating water column for commercial fish " by Mireia Valle, Eduardo Ramirez-Romero, Leire Ibaibarriaga, Leire Citores, Jose A. Fernandes-Salvador, and Guillem Chust, published in Ecological Modelling journal (2024):
+
+    > <h6>Valle, M., E. Ramírez-Romero, L. Ibaibarriaga, L. Citores, J. A. Fernandes-Salvador, and G. Chust. 2024. Pan-Atlantic 3D distribution model incorporating water column for commercial fish. Ecological Modelling 490:110632. https://doi.org/10.1016/j.ecolmodel.2024.110632<h6>
+    
   
 - [**Plankton Lifeform Extraction Tool (PLET)**](https://www.dassh.ac.uk/lifeforms/)
 
@@ -46,7 +53,7 @@ Cite the book as:
  
  - [**geomorph_deep**](https://github.com/BrandonHobley/geomorph_deep)
 
-    A repository to run Convolutional neural networks for segmenting seabed morphological classes https://github.com/BrandonHobley/geomorph_deep.
+    A coding resource used to run Convolutional neural networks for segmenting seabed morphological classes https://github.com/BrandonHobley/geomorph_deep.
   
   
  - [**Broad-scale benthic habitat classification of the South-Atlantic**](https://github.com/DeepSeaCRU/South-Atlantic-Benthic-Habitat-Classification). Cite classification as:
