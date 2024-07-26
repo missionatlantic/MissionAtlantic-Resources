@@ -14,7 +14,7 @@ An Integrated Ecosystem Assessment (IEA) is a framework for implementing ecosyst
 
 This repository (readme) file provides an overview of Mission Atlantic resources that are currently stored in this **or other repositories**. Instead of forking the full repository (and being quickly outdated), we can provide a link to other repositories.
 
-### Coding resources
+### Coding resources and tools
 
 
 
