@@ -62,6 +62,7 @@ Cite the book as:
 
    > <h6>McQuaid K. A. Bridges A. E. H., Howell K. L., Gandra T. B. R., de Souza V., Currie J. C., Hogg O. T., Pearman T. R. R., Bell J. B. B., Atkinson L. J., Baum D., Bonetti J., Carranza A., Defeo O., Furey T., Gasalla M. A., Golding N, Hampton S. L., Horta S., Jones D. O. B., Lombard A. T., Manca E., Marin Y., Martin S., Mortensen P., Passdore C., Piechaud N., Sink K. J. & Yool A. 2023. Broad-scale benthic habitat classification of the South Atlantic. Progress in Oceanography. DOI: https://doi.org/10.1016/j.pocean.2023.103016.<h6>
 
+
 - The R scripts to generate timeseries plots in the Norwegian Case Study: https://github.com/ices-eg/WGINOR (more specifically [here](https://github.com/ices-eg/WGINOR/blob/8b4277a9c4fd035837f8945bdebbda6410fb94eb/TAF_ATAC/utilities.R#L58) )
 
 - [**Mission Atlantic GeoNode Workshop**](https://github.com/missionatlantic/GeoNode_OGC_webservices_workshop)
@@ -73,9 +74,6 @@ Cite the book as:
   * Subset and download data using OGC Web Feature and Coverage Services (WFS/WCS)
   * Use OGC services with QGIS and/or ArcGIS<br>
 <br>
-
-
-
 - [**INDperform**](https://saskiaotto.github.io/INDperform)
   <p><img src="https://github.com/saskiaotto/INDperform/raw/master/man/figures/logo.png" align="right" height="100">
 
