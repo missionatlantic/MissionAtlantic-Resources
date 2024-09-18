@@ -72,8 +72,10 @@ Cite the book as:
   * Search through metadata using the OGC Catalogue Service (CSW)
   * Visualize data using OGC Web Mapping Service (WMS)
   * Subset and download data using OGC Web Feature and Coverage Services (WFS/WCS)
-  * Use OGC services with QGIS and/or ArcGIS<br>
-<br>
+  * Use OGC services with QGIS and/or ArcGIS
+
+
+
 - [**INDperform**](https://saskiaotto.github.io/INDperform)
   <p><img src="https://github.com/saskiaotto/INDperform/raw/master/man/figures/logo.png" align="right" height="100">
 
